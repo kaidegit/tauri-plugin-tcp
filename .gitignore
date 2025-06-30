@@ -12,5 +12,4 @@ yarn.lock
 /target
 Cargo.lock
 node_modules/
-webview-dist
 pnpm-lock.yaml
